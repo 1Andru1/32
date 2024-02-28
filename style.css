@@ -1,0 +1,67 @@
+header{
+  background-color: 0DF1D6;
+  padding: 10px;
+}
+
+.dd{
+  width: 71px;
+}
+
+h1{
+  text-align: center;
+}
+
+
+footer{
+  background-color: 0DF1D6;
+  padding: 10px;
+}
+
+p{
+  text-align: center;
+}
+
+.hh{
+  width: 50px;
+}
+
+.jj{
+  text-align: center;
+}
+
+.mm{
+  float: left;
+  width: 3%;
+}
+
+.nn{
+  float: right;
+  width: 3%;
+}
+
+.mht{
+  text-align: center;
+}
+
+.mhy{
+  width: 15%;
+}
+
+nav{
+   margin: 10px 0px;
+   text-align: center;
+   padding:40px 0px;
+   border-radius: 40px ;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: rgb(0, 0, 0);;
+    font-size: 40px;
+    border-radius: 16px ;
+    background-color: 00FF75;
+    margin: 10px;
+    padding-left: 60px;
+}
+
